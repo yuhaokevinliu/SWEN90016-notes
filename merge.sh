@@ -4,27 +4,28 @@
 output="main.md"
 rm -f "$output"
 
-# Manually ordered list of Markdown files
-files=(
-    Projects.md,
-    SoftwareDevelopmentLifecycle.md,
-    RiskManagement.md,
-    StakeholderAndCommunication.md,
-    Agile.md,
-    QualityManagement.md,
-    FormalProjectScheduling.md,
 
-)
 
-# Merge in specified order
-for file in "${files[@]}"; do
-  if [[ -f "$file" ]]; then
-    echo "Merging $file..."
-    echo -e "\n\n# File: $file\n" >> "$output"
-    cat "$file" >> "$output"
-  else
-    echo "Warning: $file not found!"
-  fi
+# Ordered merge of files with section headers
+for file in \
+    Projects.md \
+    SoftwareDevelopmentLifecycle.md \
+    RiskManagement.md \
+    StakeholderAndCommunication.md \
+    Agile.md \
+    QualityManagement.md \
+    FormalProjectScheduling.md \
+    Ethics.md \
+    ConfigurationManagement.md \
+    ScrumSafe.md \
+    
+
+do
+    # echo "---" >> $output
+    # echo "## $(basename "$file" .md)" >> $output
+    echo "" >> $output
+    cat "$file" >> $output
+    echo "" >> $output
 done
 
-echo "✅ Merge complete: $output"
+echo "✅ Merged into $output"

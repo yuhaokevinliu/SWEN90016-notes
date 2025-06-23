@@ -88,6 +88,8 @@ over time
 
 #### Change Control: Managing Changes Across the System
 - Change control is manual step in software lifecycle. It combines human procedures and automated tools.
+
+- Include a Change Control Board (CCB) that approve test plans before they are executed
 - Change request submitted and evaluated to assess technical merit, potential side effects, overall impact on other configuration object and system function, and project cost of change
 - Process
 ![alt text](change_control_process.png)

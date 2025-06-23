@@ -106,6 +106,9 @@ negative effect on the project objectives - PMBOK
     - Qualitative: subjective assessment based on experience/intuition
     - Quantitative: mathematical and statistical techniques
 
+#### Risk Assessment
+![alt text](risk_assessment.png)
+
 #### Qualitative
 - The important steps of risk analysis (**Qualitative**) are:
     1. Estimating the risk probability (P)

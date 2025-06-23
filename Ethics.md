@@ -22,6 +22,39 @@
 - Impact on Employment
 - Environmental Impact
 
+## IEEE Code of Ethics Summary
+
+1. **The Primacy of Public Interest**  
+   - You will place the interests of the public above those of personal, business, or sectional interests.
+
+2. **Honesty and Realism in Claims**  
+   - You will be honest and realistic in stating claims or estimates based on available data.
+
+3. **Avoiding Conflicts of Interest**  
+   - You will reject bribery, avoid conflicts of interest, and disclose them if they arise.
+
+4. **Improvement of Technical Competence**  
+   - You will seek to improve your understanding of technology, its application, and potential consequences.
+
+5. **Responsible Decision-Making**  
+   - You will ensure decisions are made with full consideration of ethical implications, safety, health, and welfare.
+
+6. **Respect for Intellectual Property**  
+   - You will respect the privacy, confidentiality, and intellectual property of others.
+
+7. **Fair Treatment of All Persons**  
+   - You will avoid unlawful discrimination, harassment, and bullying in all forms.
+
+8. **Support Colleagues and Report Misconduct**  
+   - You will support colleagues and report any concerns of unethical behavior.
+
+9. **Avoiding Harm**  
+   - You will avoid injuring others, their property, reputation, or employment by false or malicious actions.
+
+10. **Professional Integrity**  
+   - You will uphold the dignity and reputation of the profession and IEEE.
+
+
 ## Australian Computer Society (ACS) Code of Ethics
 1. The Primacy of Public Interest.
     - You will place the interests of the public above those of personal, business or sectional interests.

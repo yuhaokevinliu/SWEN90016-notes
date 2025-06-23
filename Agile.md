@@ -176,6 +176,14 @@ At the end of a sprint, the increment must be done according to the Team’s Cri
     - to be a checklist that User Stories (or PBIs) are checked against
     - to ensure the increment shipped at the end of the Sprint has high quality and that the quality is well understood by all involved.
 
+#### Example of DoD
+- Every new feature is tested during the sprint.
+- Testers & developers work closely together. Testing is done by the whole team.
+- Every sprint has its own User Acceptance testing phase (Sprint Review).
+- A small piece of working software is delivered to the client at the end of the sprint.
+- Client does User Acceptance test.
+
+
 ### DoD vs AC
 - DoD Levels 
     - DoD for a Product Backlog Item (e.g., writing code, tests and all necessary documentation)

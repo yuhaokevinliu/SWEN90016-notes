@@ -76,6 +76,17 @@ Activities in SDLC:
   iterations within each increment or “mini
   waterfall”
 
+### Some formal SDLCs
+- Prototyping
+![alt text](prototyping.png)
+- Rapid Prototyping
+![alt text](rapid_prototyping.png)
+- Spiral Model
+![alt text](spiral.png)
+- Incremental
+- Iterative 
+
+
 ### Agile Principles
 
 - Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.
@@ -126,7 +137,7 @@ deliver and sustain complex products.
 - Empiricism asserts that knowledge comes from experience and making decisions
 based on what is observed.
 - Lean thinking reduces waste and focuses on the essentials.
-- Iterative, incremental approach to optimise predictability and to control risk.
+- **Iterative**, incremental approach to optimise predictability and to control risk.
 - Scrum engages groups of people who collectively have all the skills and expertise
 to do the work and share or acquire such skills as needed.
 ### Scrum Pillars
@@ -153,3 +164,37 @@ to do the work and share or acquire such skills as needed.
 - Retrospective Documents
 - Technical Handover Document
 - User Manuals
+
+### Model Selection
+- Formal Models
+  - Customer knows what they want at the start
+  - Stable, precise and known requirements
+  - Change is not expected
+  - Mature technologies and tools
+- Agile Models
+  - Customer gives time to project
+  - Requirements continue to emerge
+  - Change is welcome
+- Hybrid
+  - Client has a prescriptive model established
+
+### Difference and Misconception Between Agile and Waterfall
+- Slipping from Agile back into Waterfall
+  - Team falls to linear planning and rigid phase boundaries
+- Doing a lot of short waterfall and thinking is Agile
+  - Agile is **Iterative** and not in many small phases
+- Waterfall masquerading as Agile Software Development
+  - label as Agile but not showing critical iteration stuff
+
+### Agile Suitability 
+- Unified Stakeholder Role – Customer, user, and other stakeholders act as a single entity.
+- Small, Co-located Teams – Agile works best with small teams in one location.
+- Highly Available Users – Users must provide constant, prompt feedback.
+- Low Emphasis on Non-Functional Aspects – Security, alternate options, and risks
+- Simple & Gradual Requirements Evolution – No major conflicts or complex prioritization needed. Functional increments can be provided quickly. No conflict management
+- Minimal Documentation – Maintenance rely on team knowledge rather than heavy formal documentation.
+- Early Release Over Rigorous Verification – Requirements verification over coding less important than early release.
+- Limited Code Refactoring Needs – Changes should not require major redesigns. People generally in charge of maintenance are product developers
+- Agility is not all-or-nothing – Projects can adopt Agile to varying degrees based on which assumptions hold
+
+## Read Tutorial 2 about Evaluation of Agile

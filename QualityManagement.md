@@ -273,6 +273,22 @@ ATDD Cycle - Example: Login Feature
     - Enhance code readability
     - Enhance code quality and maintainability
 
+
+#### Behavior Driven Development BDD
+- This is similar to the acceptance test in SWEN90004
+- For doing acceptance test 
+- For each User Story, there is different test scenarios then for each scenarios, there is 
+    - acceptance criterias 
+- Example
+    - User Story : As a Customer I want to be able to split my payments so that I can pay using multiple debit cards
+    - Test Scenarios:
+        - User selects ‘split payment’ on the payment page
+            - **Given** a User wants to pay, **When** they click the ‘split payment’ button on the payment page, **then** multiple payment card options are displayed.
+        - User chooses different types of payment options
+        - User specifies the amount they want split to each option
+        - System automatically calculates if the total amount paid by the split payments is the correct total payment
+    
+
 #### Behavior-Test Driven Development
 - a goal-oriented software development approach.
 Goal-oriented approaches explicitly tie the requirements back to the business or organisational goals.
@@ -345,6 +361,30 @@ significant cost and time savings.
     5. Optimising
     Continuous process improvement is enabled by quantitative feedback from the process and from piloting innovative ideas and technologies.
     ![alt text](cmmi.png)
+- Quality Plan
+    - Organization and Completeness
+        - Are all internal cross references to other requirements, correct?
+        - Are all requirements written at a consistent and appropriate level of detail?
+        - Do the requirements provide an adequate basis for design?
+        - Is the implementation priority of each requirement included?
+        - Are all external hardware, software, and communication interfaces defined?
+        - Have algorithms intrinsic to the functional requirements been defined?
+        - Does the specification include all the known customer or system needs?
+        - Is the expected behaviour documented for all anticipated error conditions?
+    - Correctness
+        - Do any requirements conflict with or duplicate other requirements?
+        - Is each requirement written in clear, concise, unambiguous language?
+        - Is each requirement verifiable by testing, demonstration, review, or analysis?
+        - Is each requirement in scope for the project?
+        - Is each requirement free from content and grammatical errors?
+        - Is any necessary information missing from a requirement? If so, is it identified as “to be decided”?
+        - Can all the requirements be implemented within known constraints?
+        - Are any specified error messages unique and meaningful?
+    - Quality Attributes
+        - Are all performance objectives properly specified?
+        - Are all security and safety considerations properly specified?
+        - Are all pertinent quality attribute goals explicitly documented and quantified, with the acceptable trade-offs specified?
+
 - McCall Quality Model
 ![alt text](mccall.png)
 ![alt text](mccall_1.png)
