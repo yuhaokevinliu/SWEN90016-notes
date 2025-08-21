@@ -11,12 +11,9 @@ of a project.
 includes the software system and associated artefacts.
 
 ### Emphasized process
-- Foundation for Success – A robust process critical for delivering
-successful projects
-- Industry Relevance – Professionals rely and value sound processes in
-all aspects of the project development life cycle
-- Skill Development – Focus on developing skills that are essential for
-managing and executing projects effectively.
+- Foundation for Success – A robust process critical for delivering successful projects
+- Industry Relevance – Professionals rely and value sound processes in all aspects of the project development life cycle
+- Skill Development – Focus on developing skills that are essential for managing and executing projects effectively.
 
 ## Project
 - A temporary endeavour to create a unique product, service or outcome.

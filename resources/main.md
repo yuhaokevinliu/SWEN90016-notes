@@ -7,14 +7,13 @@
 - [Agile](#agile)
 - [Software Quality Management](#software-quality-management)
 - [Formal Project Scheduling](#formal-project-scheduling)
-- [Project Tracking and Control](#project-tracking-and-control)
 - [Ethics in Professional Practice](#ethics-in-professional-practice)
 - [Configuration Management](#configuration-management)
 - [Scrum at Scale - SAFe (Scaled Agile Framework)](#scrum-at-scale---safe-scaled-agile-framework)
 
 ---
 
-
+- [Back to Menu](#-table-of-contents)
 # Projects
 
 
@@ -28,12 +27,9 @@ of a project.
 includes the software system and associated artefacts.
 
 ### Emphasized process
-- Foundation for Success – A robust process critical for delivering
-successful projects
-- Industry Relevance – Professionals rely and value sound processes in
-all aspects of the project development life cycle
-- Skill Development – Focus on developing skills that are essential for
-managing and executing projects effectively.
+- Foundation for Success – A robust process critical for delivering successful projects
+- Industry Relevance – Professionals rely and value sound processes in all aspects of the project development life cycle
+- Skill Development – Focus on developing skills that are essential for managing and executing projects effectively.
 
 ## Project
 - A temporary endeavour to create a unique product, service or outcome.
@@ -49,17 +45,14 @@ managing and executing projects effectively.
 ### Why projects
 - Provides strategic alignment of key activities and visibility at the appropriate levels
 - Mechanism to prioritise activities (Benefits, Regulatory, HW Refresh)
-- Allows organisations to deliver change in a structured and formal manner outside of Business As
-Usual
+- Allows organisations to deliver change in a structured and formal manner outside of Business As Usual
 - Effective and efficient management of organisations limited resources (people & $’s)
 - Establish ownership and accountability – Process and the Benefits
-- Provide clarity, buy-in and agreement across what will be done, when, who, why and the
-outcomes
+- Provide clarity, buy-in and agreement across what will be done, when, who, why and the outcomes
 
 ## Project Management
 - Project Management is the planning, delegating, monitoring and controlling of all aspects of a
-project, and motivating those involved to achieve the project objectives within the expected targets
-for time, costs, quality, scope, benefits and risks.
+project, and motivating those involved to achieve the project objectives within the expected targets for time, costs, quality, scope, benefits and risks.
 - Organising and structuring scarce resources
 - Managing risk
 - Identifying and clearing issues
@@ -124,6 +117,7 @@ than planned.
 ## Project Charter
 ![alt text](project_charter.png)
 
+- [Back to Menu](#-table-of-contents)
 # Incremental SDLC
 
 ## Process  
@@ -325,6 +319,7 @@ to do the work and share or acquire such skills as needed.
 
 ## Read Tutorial 2 about Evaluation of Agile
 
+- [Back to Menu](#-table-of-contents)
 # Risk Management
 - An uncertain event or condition that, if it occurs, has a positive or
 negative effect on the project objectives - PMBOK
@@ -533,6 +528,7 @@ Google Checkout provided **fraud** protection and a unified page
 for tracking purchases and their status.
 ![alt text](case_google_wallet.png)
 
+- [Back to Menu](#-table-of-contents)
 # Stakeholder and Communication
 ## PMP
 - A PMP is a formal approved document that defines how the project is executed, monitored and controlled. It may be a summary or a detailed document.
@@ -839,6 +835,7 @@ Conflict is the single most undermanaged activity in projects and if left unreso
 - Personality
 - Cost
 
+- [Back to Menu](#-table-of-contents)
 # Agile
 
 ## Scrum Artifacts
@@ -1189,6 +1186,7 @@ as they will help stakeholders see why you are using **Rolling Wave Planning** a
     - Early Technology Decisions
     - Clear Roles and Responsibilities
 
+- [Back to Menu](#-table-of-contents)
 # Software Quality Management
 
 - Evidence shows that we cannot simply fix up our software post-hoc and add in quality attributes after building the system.
@@ -1580,6 +1578,7 @@ significant cost and time savings.
 ![alt text](mccall.png)
 ![alt text](mccall_1.png)
 
+- [Back to Menu](#-table-of-contents)
 # Formal Project Scheduling
 
 ## Project Schedule
@@ -1741,9 +1740,10 @@ spent on a given activity during a specific time period.
 
 
 #### EVA metrics example !!
-    ![alt text](eva_train.png)
+![alt text](eva_train.png)
     - check for week 7 lecture
 
+- [Back to Menu](#-table-of-contents)
 # Ethics in Professional Practice
 - Ethics are the principles and values used by an individual to govern his or her actions and decisions.
 - Organisational ethics express the values of an organization to its employees and/or other entities irrespective of governmental and/or regulatory laws
@@ -1851,6 +1851,7 @@ spent on a given activity during a specific time period.
         - Created vulnerabilities where personal data could shape political behavior covertly
         ![alt text](acs_2.png)
 
+- [Back to Menu](#-table-of-contents)
 # Configuration Management
 - The process of managing changes to a software system and maintaining the integrity and traceability
 of the configuration throughout the system lifecycle.
@@ -1977,6 +1978,7 @@ omissions, or delays
    - Align development and CM progress
    - Enable informed decision-making
 
+- [Back to Menu](#-table-of-contents)
 # Scrum at Scale - SAFe (Scaled Agile Framework)
 
 - ![alt text](essential_safe.png)
